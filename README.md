@@ -46,7 +46,7 @@
 <sub>&nbsp;&nbsp;![](https://img.shields.io/badge/07.2019-08a045?logo=date&style=flat-square)</sub> &nbsp; 
 [RoBERTa: A Robustly Optimized BERT Pretraining Approach](https://arxiv.org/abs/1907.11692) 
 <br>
-<sub>&nbsp;&nbsp;![](https://img.shields.io/badge/10.2018-08a045?logo=date&style=flat-square)</sub> &nbsp;
+<sub>&nbsp;&nbsp;![](https://img.shields.io/badge/02.2019-08a045?logo=date&style=flat-square)</sub> &nbsp;
 [Language Models are Unsupervised Multitask Learners](https://d4mucfpksywv.cloudfront.net/better-language-models/language-models.pdf) (GPT-2) 
 <br>
 <sub>&nbsp;&nbsp;![](https://img.shields.io/badge/10.2018-08a045?logo=date&style=flat-square)</sub> &nbsp;
