@@ -94,7 +94,7 @@
 [Hierarchical Vision Transformer using Shifted Windows](https://arxiv.org/abs/2103.14030) (Swin Transformer)
 <br>
 <sub>&nbsp;&nbsp;![](https://img.shields.io/badge/12.2020-blue?logo=date&style=flat-square)</sub> &nbsp;
-[Training data-efficient image transformers & distillation through attention](https://arxiv.org/abs/2012.12877v2) (DEIT)
+[Training data-efficient image transformers & distillation through attention](https://arxiv.org/abs/2012.12877v2) (DeiT)
 <br>
 <sub>&nbsp;&nbsp;![](https://img.shields.io/badge/10.2020-blue?logo=date&style=flat-square)</sub> &nbsp;
 [An Image is Worth 16x16 Words](https://arxiv.org/abs/2010.11929) (ViT)
