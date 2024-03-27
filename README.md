@@ -87,6 +87,9 @@
 <sub>&nbsp;&nbsp;![](https://img.shields.io/badge/05.2021-blue?logo=date&style=flat-square)</sub> &nbsp; 
 [Simple and Efficient Design For Semantic Segmentation with Transformers](https://arxiv.org/abs/2105.15203) (SegFormer)
 <br>
+<sub>&nbsp;&nbsp;![](https://img.shields.io/badge/05.2021-blue?logo=date&style=flat-square)</sub> &nbsp; 
+[MLP-Mixer: An all-MLP Architecture for Vision](https://arxiv.org/abs/2105.01601) 
+<br>
 <sub>&nbsp;&nbsp;![](https://img.shields.io/badge/04.2021-blue?logo=date&style=flat-square)</sub> &nbsp;
 [Emerging Properties in Self-Supervised Vision Transformers](https://arxiv.org/abs/2104.14294) (DINO)
 <br>
