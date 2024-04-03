@@ -70,9 +70,6 @@
 [Grounding DINO: Marrying DINO with Grounded Pre-Training for Open-Set Object Detection](https://arxiv.org/abs/2303.05499)
 <br>
 <sub>&nbsp;&nbsp;![](https://img.shields.io/badge/11.2022-blue?logo=date&style=flat-square)</sub> &nbsp;
-[DETRs with Collaborative Hybrid Assignments Training](https://arxiv.org/abs/2211.12860) (Co-DETR) 
-<br>
-<sub>&nbsp;&nbsp;![](https://img.shields.io/badge/11.2022-blue?logo=date&style=flat-square)</sub> &nbsp;
 [OneFormer: One Transformer to Rule Universal Image Segmentation](https://arxiv.org/abs/2211.06220)
 <br>
 <sub>&nbsp;&nbsp;![](https://img.shields.io/badge/12.2021-blue?logo=date&style=flat-square)</sub> &nbsp; 
