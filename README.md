@@ -164,8 +164,9 @@
 
 <br>
 
-
 ----
+
+<br>
 
 # Papers Explained
 |Schema|Summary|
@@ -218,12 +219,13 @@
 
 ----
 
+<br>
+
 # Short Summaries
 
 <br>
 
 ## Vision
-
 |Model|Focus|
 |-|-|
 |[Grounding SAM]() | <sub>![](https://img.shields.io/badge/Segmentation-fff2cc?logo=date&style=flat-square)	|
