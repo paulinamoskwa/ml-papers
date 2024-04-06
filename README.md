@@ -223,8 +223,6 @@
 
 # Short Summaries
 
-<br>
-
 ## Vision
 |Model|Focus|
 |-|-|
