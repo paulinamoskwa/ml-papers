@@ -168,9 +168,6 @@
 ----
 
 # Papers Explained
-
-<br>
-
 |Schema|Summary|
 |:-:|-|
 |![image](https://github.com/paulinamoskwa/ml-papers/assets/104844027/db274f6f-0c47-4c42-af52-70bc681d983c)|<h3> &thinsp; <sub>![](https://img.shields.io/badge/03.2022-08a045?logo=date&style=flat-square)</sub> &thinsp; [Chinchilla](https://arxiv.org/abs/2203.15556) </h3> *Given a fixed FLOPs (compute) budget, how should one scale the model size and the number of training tokens?* Three different approaches are proposed in this paper, all reaching the same conclusion: the number of parameters and the number of training tokens should be increased equally with more compute. This is in contrast with previous work on scaling laws for LLMs, which led to a trend of increasing model size without properly scaling the number of training tokens. To validate their analysis, the authors trained a modified version of a huge non-computational-optimal model, *Gopher*, making it smaller (70B params) and training it on more tokens (1.4T tokens): *Chinchilla*. *Chinchilla* outperforms *Gopher*. <br><br>|
