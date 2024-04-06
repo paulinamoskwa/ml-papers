@@ -167,39 +167,7 @@
 
 ----
 
-# Short Summaries
-
-## Vision
-
-|Model|Focus|
-|-|-|
-|[Grounding SAM]() | <sub>![](https://img.shields.io/badge/Segmentation-fff2cc?logo=date&style=flat-square)	|
-|[SAM]() | <sub>![](https://img.shields.io/badge/Segmentation-fff2cc?logo=date&style=flat-square) </sub> &thinsp; Zero-shot segmentation based on user prompts.|
-|[Grounding DINO]() | <sub>![](https://img.shields.io/badge/Object_Detection-c9daf8?logo=date&style=flat-square) </sub> &thinsp; Zero-shot object detection based on user prompts, uses GLIP.|
-|[OneFormer]() | <sub>![](https://img.shields.io/badge/Segmentation-fff2cc?logo=date&style=flat-square) </sub> &thinsp; Multi-task universal image segmentation.|
-|[Stable Diffusion]() | <sub>![](https://img.shields.io/badge/Generative-ffc8ff?logo=date&style=flat-square) </sub> &thinsp; Conditional DDPM in latent space.|
-|[GLIP]() | <sub>![](https://img.shields.io/badge/Object_Detection-c9daf8?logo=date&style=flat-square) </sub> &thinsp; Associate words with visual regions for language aware object detection.|
-|[MAE]() | <sub>![](https://img.shields.io/badge/Representation_Learning-f4cccc?logo=date&style=flat-square) </sub> &thinsp; Self-supervised visual repr. learning with transformer and masking.|
-|[SegFormer]() | <sub>![](https://img.shields.io/badge/Segmentation-fff2cc?logo=date&style=flat-square) </sub> &thinsp; Semantic segmentation with transformer (and MLP decoder).|
-|[MLP-Mixer]() | <sub>![](https://img.shields.io/badge/Image_Classification-d9ead3?logo=date&style=flat-square) </sub> &thinsp; MLP-only architecture for image classification.|
-|[DINO]() | <sub>![](https://img.shields.io/badge/Representation_Learning-f4cccc?logo=date&style=flat-square)	|
-|[Swin Transformer]() | <sub>![](https://img.shields.io/badge/Representation_Learning-f4cccc?logo=date&style=flat-square) </sub> &thinsp; Hierarchical transformer architecture.|
-|[DeiT]() | <sub>![](https://img.shields.io/badge/Image_Classification-d9ead3?logo=date&style=flat-square) </sub> &thinsp; Efficient image classification with transformer and CNN teacher.|
-|[ViT]() | <sub>![](https://img.shields.io/badge/Image_Classification-d9ead3?logo=date&style=flat-square) </sub> &thinsp; Transformer for vision, introduced with image classification.|
-|[DDPM]() | <sub>![](https://img.shields.io/badge/Generative-ffc8ff?logo=date&style=flat-square) </sub> &thinsp; Denoising diffusion probabilistic models.|
-|[DETR]() | <sub>![](https://img.shields.io/badge/Object_Detection-c9daf8?logo=date&style=flat-square) </sub> &thinsp; Object detection with CNN features and transformer.|
-|[Mask R-CNN]() | <sub>![](https://img.shields.io/badge/Segmentation-fff2cc?logo=date&style=flat-square) </sub> &thinsp; Extend Faster R-CNN to generate pixel-level mask for detected objects.|
-|[SSD]() | <sub>![](https://img.shields.io/badge/Object_Detection-c9daf8?logo=date&style=flat-square) </sub> &thinsp; Single stage detection: predefined boxes are refined in a single pass.|
-|[YOLO]() | <sub>![](https://img.shields.io/badge/Object_Detection-c9daf8?logo=date&style=flat-square) </sub> &thinsp; Single stage detection: boxes are predicted by a single pass.|
-|[Faster R-CNN]() | <sub>![](https://img.shields.io/badge/Object_Detection-c9daf8?logo=date&style=flat-square) </sub> &thinsp; Upgrade Fast R-CNN: RoIs are generated from the CNN features.|
-|[U-Net]() | <sub>![](https://img.shields.io/badge/Segmentation-fff2cc?logo=date&style=flat-square) </sub> &thinsp; Semantic segmentation with contracting-expansive architecture.|
-|[Fast R-CNN]() | <sub>![](https://img.shields.io/badge/Object_Detection-c9daf8?logo=date&style=flat-square)</sub> &thinsp; Upgrade R-CNN: image is processed only once.|
-|[R-CNN]() | <sub>![](https://img.shields.io/badge/Object_Detection-c9daf8?logo=date&style=flat-square)</sub> &thinsp; Object detection with region proposals, CNN, and selective search.|
-
-
-----
-
-# Extensive Summaries
+# Summaries
 
 <br>
 
@@ -248,6 +216,39 @@
 |![image](https://github.com/paulinamoskwa/ml-papers/assets/104844027/50097be1-1443-4b4c-9d8a-8b598d909a2a)|<h3> &thinsp; <sub>![](https://img.shields.io/badge/06.2017-red?logo=date&style=flat-square) </sub> &thinsp; [Attention is All You Need](https://arxiv.org/abs/1706.03762) (Transformer)</h3> Novel architecture for sequence-to-sequence tasks. Transformer relies exclusively on self-attention mechanisms, which enables each position in the input sequence to attend to all others simultaneously. This approach facilitates efficient capture of long-range dependencies and parallel computation. It achieves state-of-the-art performance in tasks like machine translation and text generation, setting a new standard for sequence modeling. <br><br>|
 |![image](https://github.com/paulinamoskwa/ml-papers/assets/104844027/b1d4a7d6-114f-429c-ae00-2467c4cd05db)|<h3> &thinsp; <sub>![](https://img.shields.io/badge/06.2014-red?logo=date&style=flat-square) </sub> &thinsp; [GAN](https://arxiv.org/abs/1406.2661v1)</h3> Introducing generative models trained via adversarial process. A generative model G captures the data distribution, while a discriminative model D estimates the probability that a given sample comes from the original data rather than being generated by G. The goal of G is to generate such good samples that D is fooled.<br><br>|
 |![image](https://github.com/paulinamoskwa/ml-papers/assets/104844027/28953bb3-69fe-46ef-8a6e-eb6724ca8da7)|<h3> &thinsp; <sub>![](https://img.shields.io/badge/12.2013-red?logo=date&style=flat-square) </sub> &thinsp; [VAE](https://arxiv.org/abs/1312.6114) </h3> Introducing variational autoencoders (VAEs), a class of generative models that extend the traditional autoencoder (AE) by incorporating probabilistic inference. While in AEs the encoder maps the input into a latent space vector, in VAEs the encoder maps the input into a latent space distribution. The decoder samples from the latent distribution and reconstructs the input. VAEs minimize the same loss function as AEs, with an additional regularization term that encourages the latent space to follow a prior distribution, typically a Gaussian.<br><br>|
+
+----
+
+# Short Summaries
+
+<br>
+
+## Vision
+
+|Model|Focus|
+|-|-|
+|[Grounding SAM]() | <sub>![](https://img.shields.io/badge/Segmentation-fff2cc?logo=date&style=flat-square)	|
+|[SAM]() | <sub>![](https://img.shields.io/badge/Segmentation-fff2cc?logo=date&style=flat-square) </sub> &thinsp; Zero-shot segmentation based on user prompts.|
+|[Grounding DINO]() | <sub>![](https://img.shields.io/badge/Object_Detection-c9daf8?logo=date&style=flat-square) </sub> &thinsp; Zero-shot object detection based on user prompts, uses GLIP.|
+|[OneFormer]() | <sub>![](https://img.shields.io/badge/Segmentation-fff2cc?logo=date&style=flat-square) </sub> &thinsp; Multi-task universal image segmentation.|
+|[Stable Diffusion]() | <sub>![](https://img.shields.io/badge/Generative-ffc8ff?logo=date&style=flat-square) </sub> &thinsp; Conditional DDPM in latent space.|
+|[GLIP]() | <sub>![](https://img.shields.io/badge/Object_Detection-c9daf8?logo=date&style=flat-square) </sub> &thinsp; Associate words with visual regions for language aware object detection.|
+|[MAE]() | <sub>![](https://img.shields.io/badge/Representation_Learning-f4cccc?logo=date&style=flat-square) </sub> &thinsp; Self-supervised visual repr. learning with transformer and masking.|
+|[SegFormer]() | <sub>![](https://img.shields.io/badge/Segmentation-fff2cc?logo=date&style=flat-square) </sub> &thinsp; Semantic segmentation with transformer (and MLP decoder).|
+|[MLP-Mixer]() | <sub>![](https://img.shields.io/badge/Image_Classification-d9ead3?logo=date&style=flat-square) </sub> &thinsp; MLP-only architecture for image classification.|
+|[DINO]() | <sub>![](https://img.shields.io/badge/Representation_Learning-f4cccc?logo=date&style=flat-square)	|
+|[Swin Transformer]() | <sub>![](https://img.shields.io/badge/Representation_Learning-f4cccc?logo=date&style=flat-square) </sub> &thinsp; Hierarchical transformer architecture.|
+|[DeiT]() | <sub>![](https://img.shields.io/badge/Image_Classification-d9ead3?logo=date&style=flat-square) </sub> &thinsp; Efficient image classification with transformer and CNN teacher.|
+|[ViT]() | <sub>![](https://img.shields.io/badge/Image_Classification-d9ead3?logo=date&style=flat-square) </sub> &thinsp; Transformer for vision, introduced with image classification.|
+|[DDPM]() | <sub>![](https://img.shields.io/badge/Generative-ffc8ff?logo=date&style=flat-square) </sub> &thinsp; Denoising diffusion probabilistic models.|
+|[DETR]() | <sub>![](https://img.shields.io/badge/Object_Detection-c9daf8?logo=date&style=flat-square) </sub> &thinsp; Object detection with CNN features and transformer.|
+|[Mask R-CNN]() | <sub>![](https://img.shields.io/badge/Segmentation-fff2cc?logo=date&style=flat-square) </sub> &thinsp; Extend Faster R-CNN to generate pixel-level mask for detected objects.|
+|[SSD]() | <sub>![](https://img.shields.io/badge/Object_Detection-c9daf8?logo=date&style=flat-square) </sub> &thinsp; Single stage detection: predefined boxes are refined in a single pass.|
+|[YOLO]() | <sub>![](https://img.shields.io/badge/Object_Detection-c9daf8?logo=date&style=flat-square) </sub> &thinsp; Single stage detection: boxes are predicted by a single pass.|
+|[Faster R-CNN]() | <sub>![](https://img.shields.io/badge/Object_Detection-c9daf8?logo=date&style=flat-square) </sub> &thinsp; Upgrade Fast R-CNN: RoIs are generated from the CNN features.|
+|[U-Net]() | <sub>![](https://img.shields.io/badge/Segmentation-fff2cc?logo=date&style=flat-square) </sub> &thinsp; Semantic segmentation with contracting-expansive architecture.|
+|[Fast R-CNN]() | <sub>![](https://img.shields.io/badge/Object_Detection-c9daf8?logo=date&style=flat-square)</sub> &thinsp; Upgrade R-CNN: image is processed only once.|
+|[R-CNN]() | <sub>![](https://img.shields.io/badge/Object_Detection-c9daf8?logo=date&style=flat-square)</sub> &thinsp; Object detection with region proposals, CNN, and selective search.|
 
 
 
