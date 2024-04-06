@@ -4,28 +4,28 @@
 
 
 # Language
-<sub>&nbsp;&nbsp;![](https://img.shields.io/badge/12.2023-08a045?logo=date&style=flat-square)</sub> &nbsp;
+<sub>&nbsp;&nbsp;![](https://img.shields.io/badge/12.2023-7f7f7f?logo=date&style=flat-square)</sub> &nbsp;
 [Mixture of Experts Explained](https://huggingface.co/blog/moe) (MoE) and [Mixtral of experts](https://mistral.ai/news/mixtral-of-experts/) (Mixtral 8x7B)
 <br>
-<sub>&nbsp;&nbsp;![](https://img.shields.io/badge/09.2023-08a045?logo=date&style=flat-square)</sub> &nbsp;
+<sub>&nbsp;&nbsp;![](https://img.shields.io/badge/09.2023-7f7f7f?logo=date&style=flat-square)</sub> &nbsp;
 [Language Modeling Is Compression](https://arxiv.org/abs/2309.10668)
 <br>
-<sub>&nbsp;&nbsp;![](https://img.shields.io/badge/09.2023-08a045?logo=date&style=flat-square)</sub> &nbsp; 
+<sub>&nbsp;&nbsp;![](https://img.shields.io/badge/09.2023-7f7f7f?logo=date&style=flat-square)</sub> &nbsp; 
 [RLAIF: Scaling Reinforcement Learning from Human Feedback with AI Feedback](https://arxiv.org/abs/2309.00267) 
 <br>
-<sub>&nbsp;&nbsp;![](https://img.shields.io/badge/10.2023-08a045?logo=date&style=flat-square)</sub> &nbsp;
+<sub>&nbsp;&nbsp;![](https://img.shields.io/badge/10.2023-7f7f7f?logo=date&style=flat-square)</sub> &nbsp;
 [Mistral 7B](https://arxiv.org/abs/2310.06825)
 <br>
-<sub>&nbsp;&nbsp;![](https://img.shields.io/badge/07.2023-08a045?logo=date&style=flat-square)</sub> &nbsp;
+<sub>&nbsp;&nbsp;![](https://img.shields.io/badge/07.2023-7f7f7f?logo=date&style=flat-square)</sub> &nbsp;
 [Llama 2: Open Foundation and Fine-Tuned Chat Models](https://arxiv.org/abs/2307.09288)
 <br>
-<sub>&nbsp;&nbsp;![](https://img.shields.io/badge/05.2023-08a045?logo=date&style=flat-square)</sub> &nbsp;
+<sub>&nbsp;&nbsp;![](https://img.shields.io/badge/05.2023-7f7f7f?logo=date&style=flat-square)</sub> &nbsp;
 [QLoRA: Efficient Finetuning of Quantized LLMs](https://arxiv.org/abs/2305.14314)
 <br>
-<sub>&nbsp;&nbsp;![](https://img.shields.io/badge/04.2023-08a045?logo=date&style=flat-square)</sub> &nbsp;
+<sub>&nbsp;&nbsp;![](https://img.shields.io/badge/04.2023-7f7f7f?logo=date&style=flat-square)</sub> &nbsp;
 [Generative Agents: Interactive Simulacra of Human Behavior](https://arxiv.org/abs/2304.03442v2)
 <br>
-<sub>&nbsp;&nbsp;![](https://img.shields.io/badge/03.2023-08a045?logo=date&style=flat-square)</sub> &nbsp;
+<sub>&nbsp;&nbsp;![](https://img.shields.io/badge/03.2023-7f7f7f?logo=date&style=flat-square)</sub> &nbsp;
 [Sparks of Artificial General Intelligence: Early experiments with GPT-4](https://arxiv.org/abs/2303.12712) 
 <br>
 <sub>&nbsp;&nbsp;![](https://img.shields.io/badge/03.2022-08a045?logo=date&style=flat-square)</sub> &nbsp;
@@ -131,16 +131,16 @@
 <br>
 
 # General AI
-<sub>&nbsp;&nbsp;![](https://img.shields.io/badge/12.2023-red?logo=date&style=flat-square) </sub> &nbsp;
+<sub>&nbsp;&nbsp;![](https://img.shields.io/badge/12.2023-7f7f7f?logo=date&style=flat-square) </sub> &nbsp;
 [Mamba: Linear-Time Sequence Modeling with Selective State Spaces](https://arxiv.org/abs/2312.00752)
 <br>
-<sub>&nbsp;&nbsp;![](https://img.shields.io/badge/10.2023-08a045?logo=date&style=flat-square) </sub> &nbsp;
+<sub>&nbsp;&nbsp;![](https://img.shields.io/badge/10.2023-7f7f7f?logo=date&style=flat-square) </sub> &nbsp;
 [Attention Sinks in Transformers for endless fluent generation](https://huggingface.co/blog/tomaarsen/attention-sinks)
 <br>
-<sub>&nbsp;&nbsp;![](https://img.shields.io/badge/09.2023-08a045?logo=date&style=flat-square) </sub> &nbsp; 
+<sub>&nbsp;&nbsp;![](https://img.shields.io/badge/09.2023-7f7f7f?logo=date&style=flat-square) </sub> &nbsp; 
 [Efficient Streaming Language Models with Attention Sinks](https://arxiv.org/abs/2309.17453)
 <br>
-<sub>&nbsp;&nbsp;![](https://img.shields.io/badge/07.2023-red?logo=date&style=flat-square) </sub> &nbsp;
+<sub>&nbsp;&nbsp;![](https://img.shields.io/badge/07.2023-7f7f7f?logo=date&style=flat-square) </sub> &nbsp;
 [FlashAttention-2: Faster Attention with Better Parallelism and Work Partitioning](https://arxiv.org/abs/2307.08691)
 <br>
 <sub>&nbsp;&nbsp;![](https://img.shields.io/badge/05.2022-red?logo=date&style=flat-square) </sub> &nbsp;
