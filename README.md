@@ -73,7 +73,7 @@
 [OneFormer: One Transformer to Rule Universal Image Segmentation](https://arxiv.org/abs/2211.06220)
 <br>
 <sub>&nbsp;&nbsp;![](https://img.shields.io/badge/01.2022-blue?logo=date&style=flat-square)</sub> &nbsp;
-[BLIP: Bootstrapping L-I Pre-training for Unified V-L Understanding and Generation](https://arxiv.org/abs/2201.12086)
+[BLIP: Bootstrapping Language-Image Pre-training for Unified VL Understanding and Generation](https://arxiv.org/abs/2201.12086)
 <br>
 <sub>&nbsp;&nbsp;![](https://img.shields.io/badge/12.2021-blue?logo=date&style=flat-square)</sub> &nbsp; 
 [High-Resolution Image Synthesis with Latent Diffusion Models](https://arxiv.org/abs/2112.10752) (Stable Diffusion) 
