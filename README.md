@@ -75,6 +75,9 @@
 <sub>&nbsp;&nbsp;![](https://img.shields.io/badge/12.2021-blue?logo=date&style=flat-square)</sub> &nbsp; 
 [High-Resolution Image Synthesis with Latent Diffusion Models](https://arxiv.org/abs/2112.10752) (Stable Diffusion) 
 <br>
+<sub>&nbsp;&nbsp;![](https://img.shields.io/badge/12.2021-blue?logo=date&style=flat-square)</sub> &nbsp; 
+[Grounded Language-Image Pre-training](https://arxiv.org/abs/2112.03857) (GLIP)
+<br>
 <sub>&nbsp;&nbsp;![](https://img.shields.io/badge/11.2021-blue?logo=date&style=flat-square)</sub> &nbsp; 
 [Masked Autoencoders Are Scalable Vision Learners](https://arxiv.org/abs/2111.06377) (MAE)
 <br>
