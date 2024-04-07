@@ -232,7 +232,7 @@
 |[SAM]() | <sub>![](https://img.shields.io/badge/Segmentation-fff2cc?logo=date&style=flat-square) </sub> &thinsp; Zero-shot segmentation based on user prompts.|
 |[Grounding DINO]() | <sub>![](https://img.shields.io/badge/Object_Detection-c9daf8?logo=date&style=flat-square) </sub> &thinsp; Zero-shot object detection based on user prompts, uses GLIP.|
 |[OneFormer]() | <sub>![](https://img.shields.io/badge/Segmentation-fff2cc?logo=date&style=flat-square) </sub> &thinsp; Multi-task universal image segmentation.|
-|[BLIP]() | <sub>![](https://img.shields.io/badge/Image_Caption-ffc095?logo=date&style=flat-square) </sub> &thinsp; Vision-Language model for caption generation.|
+|[BLIP]() | <sub>![](https://img.shields.io/badge/Image_Caption-ffd5b0?logo=date&style=flat-square) </sub> &thinsp; Vision-Language model for caption generation.|
 |[Stable Diffusion]() | <sub>![](https://img.shields.io/badge/Generative-ffc8ff?logo=date&style=flat-square) </sub> &thinsp; Conditional DDPM in latent space.|
 |[GLIP]() | <sub>![](https://img.shields.io/badge/Object_Detection-c9daf8?logo=date&style=flat-square) </sub> &thinsp; Associate words with visual regions for language aware object detection.|
 |[MAE]() | <sub>![](https://img.shields.io/badge/Representation_Learning-f4cccc?logo=date&style=flat-square) </sub> &thinsp; Self-supervised visual repr. learning with transformer and masking.|
