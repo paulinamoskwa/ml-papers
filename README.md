@@ -227,7 +227,7 @@
 ## Vision
 |Model|Focus|
 |-|-|
-|[Grounded SAM]() | <sub>![](https://img.shields.io/badge/Segmentation-fff2cc?logo=date&style=flat-square) &thinsp; Automatic labeling system via Grounding DINO, SAM, BLIP, RAM.|
+|[Grounded SAM]() | <sub>![](https://img.shields.io/badge/Segmentation-fff2cc?logo=date&style=flat-square) </sub> &thinsp; Automatic labeling system via Grounding DINO, SAM, BLIP, RAM.|
 |[SAM]() | <sub>![](https://img.shields.io/badge/Segmentation-fff2cc?logo=date&style=flat-square) </sub> &thinsp; Zero-shot segmentation based on user prompts.|
 |[Grounding DINO]() | <sub>![](https://img.shields.io/badge/Object_Detection-c9daf8?logo=date&style=flat-square) </sub> &thinsp; Zero-shot object detection based on user prompts, uses GLIP.|
 |[OneFormer]() | <sub>![](https://img.shields.io/badge/Segmentation-fff2cc?logo=date&style=flat-square) </sub> &thinsp; Multi-task universal image segmentation.|
