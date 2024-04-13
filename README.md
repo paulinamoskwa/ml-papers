@@ -13,6 +13,9 @@
 <sub>&nbsp;&nbsp;![](https://img.shields.io/badge/10.2023-7f7f7f?logo=date&style=flat-square)</sub> &nbsp;
 [Mistral 7B](https://arxiv.org/abs/2310.06825)
 <br>
+<sub>&nbsp;&nbsp;![](https://img.shields.io/badge/09.2023-08a045?logo=date&style=flat-square) </sub> &nbsp; 
+[Efficient Streaming Language Models with Attention Sinks](https://arxiv.org/abs/2309.17453) (StreamingLLM)
+<br>
 <sub>&nbsp;&nbsp;![](https://img.shields.io/badge/07.2023-7f7f7f?logo=date&style=flat-square)</sub> &nbsp;
 [Llama 2: Open Foundation and Fine-Tuned Chat Models](https://arxiv.org/abs/2307.09288)
 <br>
@@ -128,12 +131,6 @@
 <sub>&nbsp;&nbsp;![](https://img.shields.io/badge/12.2023-7f7f7f?logo=date&style=flat-square) </sub> &nbsp;
 [Mamba: Linear-Time Sequence Modeling with Selective State Spaces](https://arxiv.org/abs/2312.00752)
 <br>
-<sub>&nbsp;&nbsp;![](https://img.shields.io/badge/10.2023-7f7f7f?logo=date&style=flat-square) </sub> &nbsp;
-[Attention Sinks in Transformers for endless fluent generation](https://huggingface.co/blog/tomaarsen/attention-sinks)
-<br>
-<sub>&nbsp;&nbsp;![](https://img.shields.io/badge/09.2023-7f7f7f?logo=date&style=flat-square) </sub> &nbsp; 
-[Efficient Streaming Language Models with Attention Sinks](https://arxiv.org/abs/2309.17453)
-<br>
 <sub>&nbsp;&nbsp;![](https://img.shields.io/badge/07.2023-red?logo=date&style=flat-square) </sub> &nbsp;
 [FlashAttention-2: Faster Attention with Better Parallelism and Work Partitioning](https://arxiv.org/abs/2307.08691)
 <br>
@@ -165,6 +162,7 @@
 # Papers Explained
 |Schema|Summary|
 |:-:|-|
+|![image](https://github.com/paulinamoskwa/ml-papers/assets/104844027/7b216399-8cef-49ae-90a7-8a0c18bbbe5b)|<h3> &thinsp; <sub>![](https://img.shields.io/badge/09.2023-08a045?logo=date&style=flat-square) </sub> &thinsp; [Attention sink & StreamingLLM](https://arxiv.org/abs/2309.17453)</h3> .. <br><br>|
 |![image](https://github.com/paulinamoskwa/ml-papers/assets/104844027/a3756231-488e-4ead-a6a5-62fd8b3045ef)|<h3> &thinsp; <sub>![](https://img.shields.io/badge/04.2023-08a045?logo=date&style=flat-square)</sub> &thinsp; [Generative Agents](https://arxiv.org/abs/2304.03442v2)</h3> Introducing generative agents, computational agents that simulate human behaviour. Long term coherence is ensured by generative agents' architecture, which stores, synthetizes, and applies relevant memories to generate believable behaviour using a LLM. The architecture has three main components: a memory stream (long-term memory database that records in natural language agents' experiences), a reflection mechanism (synthetizes memories into higher-level thoughts over time), and a planning mechanism (translates conclusions and the current environment into action-plans). A memory retrieval function combines relevance, recency, and importance to surface the records needed to inform the agents. During evaluation (agents being interviewed), these agents produced believable individual and social behaviours.  <br><br>|
 |![image](https://github.com/paulinamoskwa/ml-papers/assets/104844027/cbb70d0b-ed49-40e3-b09c-10f7780a44c2)|<h3> &thinsp; <sub>![](https://img.shields.io/badge/03.2023-08a045?logo=date&style=flat-square)</sub> &thinsp; [Sparks of AGI with GPT-4](https://arxiv.org/abs/2303.12712) </h3> Exploratory paper about GPT-4 capabilities. Authors had access to the raw, unrestricted version of GPT-4. The exploration, closer to traditional psychology rather than machine learning, is designed to separate true learning from mere memorization. GPT-4 shows ability in image understanding (it generates images understanding elements' relationships), coding (it passes mocked tech interviews), 3D game development, solving mathematical problems (unseen math olympiad and Fermi questions), and real-world interactions (personal assistant, handyman). Moreover, GPT-4 is great at theory of mind, understanding human beliefs and emotions from context. However, GPT-4 lacks in ability of planning ahead, is pro propaganda and conspiracy theories, and lacks of motivation (it behaves passively). <br><br>|
 |![image](https://github.com/paulinamoskwa/ml-papers/assets/104844027/db274f6f-0c47-4c42-af52-70bc681d983c)|<h3> &thinsp; <sub>![](https://img.shields.io/badge/03.2022-08a045?logo=date&style=flat-square)</sub> &thinsp; [Chinchilla](https://arxiv.org/abs/2203.15556) </h3> *Given a fixed FLOPs (compute) budget, how should one scale the model size and the number of training tokens?* Three different approaches are proposed in this paper, all reaching the same conclusion: the number of parameters and the number of training tokens should be increased equally with more compute. This is in contrast with previous work on scaling laws for LLMs, which led to a trend of increasing model size without properly scaling the number of training tokens. To validate their analysis, the authors trained a modified version of a huge non-computational-optimal model, *Gopher*, making it smaller (70B params) and training it on more tokens (1.4T tokens): *Chinchilla*. *Chinchilla* outperforms *Gopher*. <br><br>|
