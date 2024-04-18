@@ -1,7 +1,7 @@
+ 
+![image](https://github.com/paulinamoskwa/ml-papers/assets/104844027/6101da34-faaf-41fd-8850-f4273b8f847d)
 
-
-
-
+<br>
 
 # Language
 <sub>&nbsp;&nbsp;![](https://img.shields.io/badge/01.2024-08a045?logo=date&style=flat-square)</sub> &nbsp;
