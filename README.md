@@ -1,5 +1,6 @@
- 
-![image](https://github.com/paulinamoskwa/ml-papers/assets/104844027/6101da34-faaf-41fd-8850-f4273b8f847d)
+
+ ![image](https://github.com/paulinamoskwa/ml-papers/assets/104844027/85937317-9779-4036-b1e3-03c3b58fb82a)
+
 
 <br>
 
