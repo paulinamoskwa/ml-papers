@@ -1,11 +1,9 @@
 
  ![image](https://github.com/paulinamoskwa/ml-papers/assets/104844027/85937317-9779-4036-b1e3-03c3b58fb82a)
 <p align="center">
- 
- ![](https://img.shields.io/badge/Language-18-08a045?logo=date)
- ![](https://img.shields.io/badge/Vision-23-blue?logo=date)
- ![](https://img.shields.io/badge/General_AI-8-red?logo=date)
- 
+ <img src="https://img.shields.io/badge/Language-18-08a045?logo=date"/>
+ <img src="https://img.shields.io/badge/Vision-23-blue?logo=date"/>
+ <img src="https://img.shields.io/badge/General_AI-8-red?logo=date"/>
 </p>
 
 <br>
