@@ -6,8 +6,6 @@
  <img src="https://img.shields.io/badge/General_AI-8-red?logo=date"/>
 </p>
 
-<br>
-
 # Language
 <sub>&nbsp;&nbsp;![](https://img.shields.io/badge/01.2024-08a045?logo=date&style=flat-square)</sub> &nbsp;
 [Mixtral of Experts](https://arxiv.org/abs/2401.04088) (Mixtral 8x7B)
