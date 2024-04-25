@@ -6,7 +6,7 @@ All the speed-up and memory savings of SSMs/S4 vs. transformers came at the cost
 
 The main contributions of this paper is selective SSM, composed of:
 - **selective scan algorithm**, which allows the model to filter (ir)relevant information
-- _(*)_ **hardware-aware adaptation** that allows for efficient storage of intermediate results through parallel scan, kernel fusion (of discretization step, selective scan algorithm, and multiplication with C), and recomputation (collection of optimizations that come from the *flashattention* paper)
+- **hardware-aware adaptation** _(*)_ that allows for efficient storage of intermediate results through parallel scan, kernel fusion (of discretization step, selective scan algorithm, and multiplication with $C$), and recomputation (collection of optimizations that come from the *FlashAttention* paper)
 
 Selective SSM is wrapped into an architecture (H3 with gate mechanism) to form a **Mamba block** (to be used like an attention block within a network). 
 
@@ -16,7 +16,7 @@ In short, the **main difference between Mamba (S6) and its predecessor S4, is si
 
 ---
 
-_(*) Why the hardware-aware adaptation? While $A$ is still a parameter, everything else $(B, C, \Delta)$ is computed from the input. In doing so, everything gains a dimension. To make it efficient inside the GPU, the paper proposes some flashattention-alike tricks to make it still fast._
+_(*) Why the hardware-aware adaptation? While_ $A$ _is still a parameter, everything else_ $(B, C, \Delta)$ _is computed from the input. In doing so, everything gains a dimension. To make it efficient inside the GPU, the paper proposes some FlashAttention-alike tricks to make it still fast._
 
 ----
 
